@@ -4,7 +4,7 @@
  <h4> <i>Sapienza University of Maryland, College Park</i></h4>
  
 
-<div align="LEFT"> <h3> Abstract </h3>  </div>
+<div align="center"> <h3> Abstract </h3>  </div>
 <div align="justify">
 
 </div>

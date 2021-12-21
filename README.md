@@ -4,18 +4,7 @@
  <h4> <i>Sapienza University of Maryland, College Park</i></h4>
  
 
-<div align="center"> <h3> Abstract </h3>  </div>
-<div align="justify">
 
-</div>
---------
-
-
- ### Install dependencies:
-```
- $ pip install -r requirements.txt
-```
- 
  ### Get the data
 
 [Human3.6m](http://vision.imar.ro/human3.6m/description.php) in exponential map can be downloaded from [here](http://www.cs.stanford.edu/people/ashesh/h3.6m.zip).

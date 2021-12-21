@@ -42,28 +42,13 @@ The arguments for running the code are defined in [parser.py](utils/parser.py). 
  ```bash
  python main_h36_3d.py --input_n 10 --output_n 25 --skip_rate 1 --joints_to_consider 22 --mode test --model_path ./checkpoints/CKPT_3D_H36M
   ```
-  ```bash
-  python main_h36_ang.py --input_n 10 --output_n 25 --skip_rate 1 --joints_to_consider 16 --mode test --model_path ./checkpoints/CKPT_ANG_H36M
-  ```
+
 
 ### Visualization
  For visualizing from a pretrained model, we have used the following commands:
  ```bash
   python main_h36_3d.py --input_n 10 --output_n 25 --skip_rate 1 --joints_to_consider 22 --mode viz --model_path ./checkpoints/CKPT_3D_H36M --n_viz 5
  ```
- ```bash
-  python main_h36_ang.py --input_n 10 --output_n 25 --skip_rate 1 --joints_to_consider 16 --mode viz --model_path ./checkpoints/CKPT_ANG_H36M --n_viz 5
- ```
 
 
-### Citing
- If you use our code,please cite our work
- 
- ```
-@misc{
-}
- ```
- 
- ### Acknowledgments
- 
 

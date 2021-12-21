@@ -7,8 +7,12 @@
 
 <div align="center"> <h3> Abstract </h3>  </div>
 <div align="justify">
-
 </div>
+
+ ### Install dependencies:
+```
+ $ pip install -r requirements.txt
+```
 
  ### Get the data
 
